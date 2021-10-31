@@ -1,6 +1,6 @@
 # Phonetic Word Similarity
 
-A novel method to compare the phonetic similarity between words based on phonetic features.
+A novel method to compare the phonetic similarity between words based on phonetic features. This is the official repository for the paper **[https://arxiv.org/pdf/2109.14796.pdf](https://arxiv.org/pdf/2109.14796.pdf)**
 
 - Table of content
   - [Preparing dataset and environment](#preparing-dataset-and-environment)
